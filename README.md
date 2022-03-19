@@ -3,3 +3,10 @@ Repository for the final project of the course Introduction to Deep (Machine) Le
 
 
 ## Project: Brain tumor classification from structural MRI data
+
+The data was downloaded from [here](https://figshare.com/articles/dataset/brain_tumor_dataset/1512427
+), and consisted of 3064 MRI (T1) slices from 233 patients with brain tumors. 
+Tumors: 82 patients with meningiomas, 89 with gliomas and 62 with pituitary tumors.
+
+
+
