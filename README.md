@@ -10,4 +10,9 @@ Tumors: 82 patients with meningiomas, 89 with gliomas and 62 with pituitary tumo
 
 ![159115416-4feb6290-4de2-48c5-852c-ae04fa27efdb](https://user-images.githubusercontent.com/4202630/159115486-6aace7a2-bd04-4f2f-9748-bbabbf5a799f.jpg)
 
+Example of a batch:
+
+![Untitled](https://user-images.githubusercontent.com/4202630/159115557-ed6045fb-c87f-4141-9751-f5f6d334e820.jpg)
+
+
 
