@@ -8,7 +8,7 @@ The data was downloaded from [here](https://figshare.com/articles/dataset/brain_
 ), and consisted of 3064 MRI (T1) slices from 233 patients with brain tumors. 
 Tumors: 82 patients with meningiomas, 89 with gliomas and 62 with pituitary tumors.
 
-![159115416-4feb6290-4de2-48c5-852c-ae04fa27efdb](https://user-images.githubusercontent.com/4202630/159115486-6aace7a2-bd04-4f2f-9748-bbabbf5a799f.jpg  width=100)
+![159115416-4feb6290-4de2-48c5-852c-ae04fa27efdb](https://user-images.githubusercontent.com/4202630/159115486-6aace7a2-bd04-4f2f-9748-bbabbf5a799f.jpg)
 
 
 Confusion matrix: 
