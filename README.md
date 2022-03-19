@@ -14,5 +14,5 @@ Example of a batch:
 
 ![Untitled](https://user-images.githubusercontent.com/4202630/159115557-ed6045fb-c87f-4141-9751-f5f6d334e820.jpg)
 
-
-
+Confusion matrix: 
+![Untitled2](https://user-images.githubusercontent.com/4202630/159115596-686d2a46-de37-41b5-8498-9972b00348ed.jpg)
